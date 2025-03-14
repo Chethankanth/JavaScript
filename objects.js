@@ -7,7 +7,7 @@ const student = {
     isPass: true,//bool datatype
 };
 
-student["fullName"];
+student["fullName"];//this is also a method to accesses the elements inside the objects
 console.log(student);
 console.log(student["fullName"]);//double cotes is essential
 console.log(student.CGPA);

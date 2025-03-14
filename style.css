@@ -1,0 +1,32 @@
+h1{
+    color: red;
+    background-color: aqua;
+
+}
+
+.heading1{
+    color:chocolate;
+    background-color: orchid;
+
+}
+.box{
+    height: 200px;
+    width: 200px;
+    border: 25px;
+    margin: 20px;
+    text-align:23px;
+    background-color:red
+}
+.myclass{
+    font-style:italic;
+    background-color:blanchedalmond;
+}
+.newclass{
+    background-color: blue;
+}
+
+.oldclass{
+    background-color: aliceblue;
+    font-size: large;
+    font-style: italic;
+}
