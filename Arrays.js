@@ -39,7 +39,7 @@ console.log(a.splice(2,2,399,999));//here splice logic is first number repre the
 
 let p = ["Bloomberg","Microsoft","Uber","Google","IBM","Netflix"];
 
-let removf =p.shift();
+let removf =p.shift();//all ele shifts to left once
 for(let i = 0; i<=p.length;i++){
     console.log(`the array after removing the first company from the arrat is ${p}`);
 }
