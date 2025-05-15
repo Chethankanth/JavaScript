@@ -35,7 +35,7 @@ for(let i = 0; i<items.length; i++){
     console.log(`the value after the price reduction is ${items[i]}`);
 }
 let a = [250,645,300,900,40];
-console.log(a.splice(2,2,399,999));
+console.log(a.splice(2,2,399,999));//here splice logic is first number repre the index to start from , second rep how many to splice,and next that many numbersust be added
 
 let p = ["Bloomberg","Microsoft","Uber","Google","IBM","Netflix"];
 
